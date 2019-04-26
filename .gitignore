@@ -5,6 +5,8 @@ images/
 __pycache__/
 *.py[cod]
 *$py.class
+*.bz2
+*.png
 
 # C extensions
 *.so
